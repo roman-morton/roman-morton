@@ -1,9 +1,7 @@
-<!-- CAPSULE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff66,100:00bfff&height=200&section=header&text=OFFENSIVE%20SEC%20%26%20ALGO-TRADING&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World&fontSize=70" />
 </p>
 
-<!-- DYNAMIC TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=00FF66&center=true&vCenter=true&width=500&lines=root%40roman-morton%3A~%23+./launch.sh;Searching+for+0days+%26+fuzzing...;Algo-Trading+%26+Orderbook+Sec;Python%2C+Bash%2C+Go%2C+C%23+%26+Fullstack" alt="Typing SVG" />
 </p>
@@ -13,12 +11,12 @@
 </p>
 
 <p align="center">
-  <i>«В кибербезе нет кнопки Pause, в трейдинге — нет кнопки Отмена. Только профит, только хардкор.»</i>
+  <i>«Маша любимость моя»</i>
 </p>
 
 ---
 
-### 📬 Direct Shell Access / Связь со мной
+### Связь со мной
 
 <p align="center">
   <a href="https://t.me/xoktu" target="_blank">
@@ -32,7 +30,7 @@
 
 ---
 
-### 💻 System Terminal / Профиль
+### Профиль
 
 ```bash
 ┌──(root⚡morton-node)-[~/sec_lab]
@@ -43,14 +41,15 @@
 [+] Current Task: Автоматизация скриптов, работа с API и защита ботов
 
 ```
-​Кибербезопасность, МТК: Поиск уязвимостей, фаззинг, аудит скриптов и защита веб-приложений.
+## ​Кибербезопасность, МТК: Поиск уязвимостей, фаззинг, аудит скриптов и защита веб-приложений.
 
 
-​Трейдинг, АльгоБезопасность: Защита апи-ключей, парсинг стаканов, безопасность торговых ботов.
+## ​Трейдинг, АльгоБезопасность: Защита апи-ключей, парсинг стаканов, безопасность торговых ботов.
 
 
-Скриптинг: Написание клиперов, парсеров, консольных утилит на Bash/Python.
-​🧬 Weaponry & Programming Languages / Стек языков
+## Скриптинг: Написание клиперов, парсеров, консольных утилит на Bash/Python.
+
+### Стек языков
 ​<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -64,7 +63,9 @@
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"/>
 </p>
-​🛠️ OS & Cyber Arsenal / Инструменты
+​
+
+### Инструменты
 ​<p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
