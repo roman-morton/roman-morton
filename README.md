@@ -72,20 +72,3 @@
 <img src="https://img.shields.io/badge/InfoSec-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF66"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-​📈 Live Telemetry / Статистика кода
-​<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=roman-morton&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9&icon_color=00ff66" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-morton&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9" />
-</p>
-​🏆 Wall of Fame / Трофеи
-​<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=roman-morton&theme=darkhub&no-frame=true&no-reflection=true&column=6" />
-</p>
-​🐍 Snake Activity / Охота за коммитами
-​<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roman-morton/roman-morton/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roman-morton/roman-morton/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roman-morton/roman-morton/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
