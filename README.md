@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <i>«Маша любимость моя»</i>
+  <i>«Larp»</i>
 </p>
 
 ---
@@ -41,15 +41,15 @@
 [+] Current Task: Автоматизация скриптов, работа с API и защита ботов
 
 ```
- ## ​Кибербезопасность, МТК: Поиск уязвимостей, фаззинг, аудит скриптов и защита веб-приложений.
+   ### ​Кибербезопасность, МТК: Поиск уязвимостей, фаззинг, аудит скриптов и защита веб-приложений.
 
 
- ## ​Трейдинг, АльгоБезопасность: Защита апи-ключей, парсинг стаканов, безопасность торговых ботов.
+   ### ​Трейдинг, АльгоБезопасность: Защита апи-ключей, парсинг стаканов, безопасность торговых ботов.
 
 
- ## Скриптинг: Написание клиперов, парсеров, консольных утилит на Bash/Python.
+   ### Скриптинг: Написание клиперов, парсеров, консольных утилит на Bash/Python.
 
- ### Стек языков
+   ### Стек языков
 ​<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -65,7 +65,7 @@
 </p>
 ​
 
- ### Инструменты
+   ### Инструменты
 ​<p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
